@@ -66,8 +66,8 @@ Per-user MFA status confirmed as enabled for all five identities in the SecureLo
 
 | Document | Description |
 |---|---|
-| [RBAC Matrix](SecureLogix_RBAC_Matrix.md) | Role-based access control mapping for all SecureLogix users and resources |
-| [JML Workflow](SecureLogix_JML_Workflow.md) | Joiner-Mover-Leaver identity lifecycle procedures with access review checklists |
+| [RBAC Matrix](SecureLogix_RBAC_Matrix) | Role-based access control mapping for all SecureLogix users and resources |
+| [JML Workflow](SecureLogix_JML_Workflow) | Joiner-Mover-Leaver identity lifecycle procedures with access review checklists |
 
 
 ## Findings Summary
