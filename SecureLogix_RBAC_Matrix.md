@@ -105,7 +105,7 @@ For IT Admin and Global Admin privileged actions:
 
 ## Planned Conditional Access Policies
 
-*Note: These policies were designed as part of the Zero Trust implementation. Full Conditional Access requires Entra ID P1 licensing.*
+*Note: These policies were designed as part of the Zero Trust implementation but could not be built in the live environment — full Conditional Access policy creation requires a paid Microsoft Entra ID P1 licence, which is not available on the free tier used in this lab.*
 
 **Policy 1 — Require MFA Outside Company Network**
 - Condition: User signs in from outside named/trusted location
