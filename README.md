@@ -62,6 +62,14 @@ Security defaults enabled at the tenant level, enforcing baseline MFA requiremen
 
 Per-user MFA status confirmed as enabled for all five identities in the SecureLogix tenant. MFA enforcement aligns with NIST SP 800-53 IA-5 (Authenticator Management) and supports Zero Trust principles by requiring verified identity before granting access to any resource.
 
+## Supporting Documentation
+
+| Document | Description |
+|---|---|
+| [RBAC Matrix](SecureLogix_RBAC_Matrix.md) | Role-based access control mapping for all SecureLogix users and resources |
+| [JML Workflow](SecureLogix_JML_Workflow.md) | Joiner-Mover-Leaver identity lifecycle procedures with access review checklists |
+
+
 ## Findings Summary
 
 | Control Area | Action Taken | Framework Reference |
