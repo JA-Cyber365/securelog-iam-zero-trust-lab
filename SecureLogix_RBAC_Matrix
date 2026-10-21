@@ -70,6 +70,12 @@ All access decisions follow the **Least Privilege** principle — users receive 
 
 For IT Admin and Global Admin privileged actions:
 
+1. Submit access request with business justification
+2. Manager or admin approves the request
+3. Temporary elevated access granted (Just In Time)
+4. Task completed within approved window
+5. Access automatically revoked when window closes
+6. Action logged in Audit logs for review
 
 ---
 
